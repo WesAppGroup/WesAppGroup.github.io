@@ -16,7 +16,7 @@ The platform guide explains everything from setting up the development environme
 [Android Platform Guide] (http://docs.phonegap.com/en/2.9.0/guide_getting-started_android_index.md.html#Android%20Platform%20Guide)
 
 
-To use JQuery Mobile you will also need JQuery.
+To use JQuery Mobile you will also need JQuery. Do not use the CDN version for any of the js libraries. Either the compressed or uncompressed versions are fine.
 
 [JQuery 2.0.3] (http://jquery.com/download/)
 
