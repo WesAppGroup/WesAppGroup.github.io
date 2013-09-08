@@ -5,26 +5,33 @@ date:   2013-08-21 18:15:04
 categories: jekyll update
 ---
 
-Here are some helpful links for getting started. I have been using 2.9.0 but we can revaluate whent the schoolyear starts.
+Here are links to help you get started.
 
-[Cordova Download] (http://cordova.apache.org/)
+Android SDK
+-------
+[Link to download] (http://developer.android.com/sdk/index.html)
 
+Cordova
+-------
+[Link] (http://cordova.apache.org/) Use version 2.9.x
 
-
-The platform guide explains everything from setting up the development environment to deploying the app on an emulator/phone.
-
-[Android Platform Guide] (http://docs.phonegap.com/en/2.9.0/guide_getting-started_android_index.md.html#Android%20Platform%20Guide)
-
-
-To use JQuery Mobile you will also need JQuery. Do not use the CDN version for any of the js libraries. Either the compressed or uncompressed versions are fine.
-
-[JQuery 2.0.3] (http://jquery.com/download/)
+The Cordova Android platform guide explains everything from setting up the development environment to deploying the app on an emulator/phone. [Android Platform Guide] (http://docs.phonegap.com/en/2.9.0/guide_getting-started_android_index.md.html#Android%20Platform%20Guide)
 
 
 
-When downloading JQuery Mobile, download the zip file. It contains an images folder that you need to place inside the css folder of your app.
+Libraries and Frameworks
+------------------------
 
-[JQuery Mobile 1.3] (http://jquerymobile.com/download/)
+jQuery is required for jQuery Mobile.
+
+[JQuery] (http://jquery.com/download/)
+
+jQuery mobile is a user interface system for mobile devices.
+
+[JQuery Mobile] (http://jquerymobile.com/download/)
+
+When downloading JQuery Mobile, download the zip file. We need the minified javascript file, the minified css file, and the images folder.
+
 
 This is what your file structure should look like:
 
@@ -52,7 +59,7 @@ assets/www/
 ---- index.html
 
 
-For an example on how to use JQuery Mobile and Cordova together, look at the example apps on the WesAppGroup github page.
+The github page contains example apps of how to use jquery mobile and cordova together.
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
