@@ -26,8 +26,33 @@ When downloading JQuery Mobile, download the zip file. It contains an images fol
 
 [JQuery Mobile 1.3] (http://jquerymobile.com/download/)
 
+This is what your file structure should look like:
 
-For an example on how to use JQuery Mobile and Cordova together, look at the Tic Tac Toe app on the WesApp github page or use google.
+assets/www/
+
+---- css/
+
+....---- images/
+
+....---- index.css
+
+....---- jquery.mobile-1.3.1.min.css
+
+
+---- js/
+
+....---- index.js
+
+....---- jquery-2.0.3.min.js
+
+....---- jquery.mobile-1.3.1.min.js
+
+....---- img/
+
+---- index.html
+
+
+For an example on how to use JQuery Mobile and Cordova together, look at the example apps on the WesAppGroup github page.
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
