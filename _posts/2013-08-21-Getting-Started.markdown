@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Getting Started With Cordova and JQuery Mobile"
+title:  "Getting Started With PhoneGap and JQuery Mobile"
 date:   2013-08-21 18:15:04
-categories: jekyll update
 ---
 
 Here are links to help you get started.
@@ -11,7 +10,7 @@ Android SDK
 -------
 [Link to download] (http://developer.android.com/sdk/index.html)
 
-Cordova
+PhoneGap aka Cordova
 -------
 [Link] (http://cordova.apache.org/) Use version 2.9.x
 
