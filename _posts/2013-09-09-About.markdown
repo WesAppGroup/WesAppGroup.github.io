@@ -36,6 +36,8 @@ Git is a distributed version control system. It manages changes to collections o
 
 [A comprehensive git tutorial] (http://www.vogella.com/articles/Git/article.html)
 
+The book, [Pro Git] (http://git-scm.com/book), suggested by Max.
+
 Git is often used in conjunction with [GitHub] (https://github.com), a hosting service for software development projects using Git.
 
 [Here] (http://nvie.com/posts/a-successful-git-branching-model/) is a development model that also teaches you quite a bit about git. 
