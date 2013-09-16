@@ -8,7 +8,7 @@ Here is some background information and links to some more resources.
 
 Hybrid Apps
 -------------
-Native apps are developed using the native IDE and SDK for their respective platforms. Mobile websites are websites are viewed through mobile phone browsers. Mobile web apps are web apps designed specifically for mobile phones for improved performance. Hybrid apps are developed using web technologies and wrapped in a native package so they can be distributed through app stores and installed on devices. The benefite of developing a hybrid app include faster development, one language can be used across multiple platforms, and access to native capabilities. The disadvantages include performance, making the app look native, and more time spent just making things work.
+Native apps are developed using the native IDE and SDK for their respective platforms. Mobile websites are websites are viewed through mobile phone browsers. Mobile web apps are web apps designed specifically for mobile phones for improved performance. Hybrid apps are developed using web technologies and wrapped in a native package so they can be distributed through app stores and installed on devices. The benefit of developing a hybrid app include faster development, one language can be used across multiple platforms, and access to native capabilities. The disadvantages include performance, making the app look native, and more time spent just making things work.
 
 
 PhoneGap
