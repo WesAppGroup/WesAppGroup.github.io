@@ -10,7 +10,7 @@ Android SDK
 -------
 [Link to download] (http://developer.android.com/sdk/index.html)
 
-PhoneGap aka Cordova
+PhoneGap  
 -------
 [Link] (http://cordova.apache.org/) Use version 2.9.x
 
